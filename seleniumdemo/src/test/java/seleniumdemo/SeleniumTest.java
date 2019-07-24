@@ -15,7 +15,7 @@ public class SeleniumTest {
 	  public void setUpDriver() {  
 		 System.setProperty("webdriver.chrome.driver", "E:\\drivers\\chromedriver_win32\\chromedriver.exe");
 		  driver = new ChromeDriver();
-		  //test
+		  
 	  } 
 
 	@Test
